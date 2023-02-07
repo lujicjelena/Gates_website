@@ -1,7 +1,5 @@
 ---
-title: "about.Rmd"
-author: "Stephanie Tanis"
-date: "2/7/2023"
+title: "About Us"
 output: html_document
 ---
 
